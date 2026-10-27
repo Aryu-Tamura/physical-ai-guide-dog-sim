@@ -8,7 +8,7 @@
 
 ## 10〜25分：比較を再実行する
 
-`IMPLEMENTATION.md`の環境準備後、`python run_experiments.py --quick`を実行する。`outputs/reproduction/summary.csv`を開き、待機の有無で到着と距離がどう変わるか読む。
+`IMPLEMENTATION.md`の環境準備後、`python run_experiments.py --quick`を実行する。`outputs/quick/summary.csv`を開き、待機の有無で到着と距離がどう変わるか読む。
 
 問い：両者が最終的に到着しても、途中で人を置き去りにしていれば成功と言えるか。
 
