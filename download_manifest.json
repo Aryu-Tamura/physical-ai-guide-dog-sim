@@ -1,0 +1,36 @@
+{
+  "policy_repo": "Teddy-Liao/walk-these-ways-go2",
+  "policy_commit": "d00320778c61567379b4a304047955c0c0dcae43",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/Teddy-Liao/walk-these-ways-go2/d00320778c61567379b4a304047955c0c0dcae43/runs/gait-conditioned-agility/pretrain-go2/train/142238.667503/checkpoints/body_latest.jit",
+      "path": "assets/body_latest.jit",
+      "bytes": 4981032,
+      "sha256": "7b6e604e2147742a89ef50d91e7ee501023331b2589d1c3143a9d2ba858db7b5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Teddy-Liao/walk-these-ways-go2/d00320778c61567379b4a304047955c0c0dcae43/runs/gait-conditioned-agility/pretrain-go2/train/142238.667503/checkpoints/adaptation_module_latest.jit",
+      "path": "assets/adaptation_module_latest.jit",
+      "bytes": 2293757,
+      "sha256": "0e091f829dcfbedd4ccca6752863e1e2feca105f79da07d04e3545b8815dcc13"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Teddy-Liao/walk-these-ways-go2/d00320778c61567379b4a304047955c0c0dcae43/runs/gait-conditioned-agility/pretrain-go2/train/142238.667503/parameters_cpu.pkl",
+      "path": "assets/parameters_cpu.pkl",
+      "bytes": 70620,
+      "sha256": "ee120395b6c068cd671139d290594c59c3b4a99e7552ca825e97e9fc66edcecf"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Teddy-Liao/walk-these-ways-go2/d00320778c61567379b4a304047955c0c0dcae43/LICENSE",
+      "path": "assets/WTW_LICENSE",
+      "bytes": 1070,
+      "sha256": "cc24a18750ae823c19a58fe87e73789bddebfa7a474979e62ee9ea5ab1c7af2f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-e-fact/unitree_mujoco/fcc708030457e2f95ae7a23db7cc5e8585e7bc8e/LICENSE",
+      "path": "assets/controller_LICENSE",
+      "bytes": 1559,
+      "sha256": "a5d73fc4aca9074e3e6fe0b1a0ba763cf9514b2249b7390ed20fe8d53630bf25"
+    }
+  ]
+}

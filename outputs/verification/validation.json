@@ -1,0 +1,9 @@
+{
+  "experiment_trials": 22,
+  "integrated_passes": 9,
+  "all_expected_outcomes": true,
+  "render_trajectory_identical": true,
+  "video_frames": 2557,
+  "video_duration_seconds": 102.28,
+  "pdf_pages": 4
+}

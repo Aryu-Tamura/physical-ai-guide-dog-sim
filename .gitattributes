@@ -1,0 +1,8 @@
+*.pdf binary
+*.mp4 binary
+*.png binary
+*.jit binary
+*.pkl binary
+*.obj -diff
+*.csv whitespace=cr-at-eol
+*.md whitespace=-blank-at-eol

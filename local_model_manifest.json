@@ -1,0 +1,102 @@
+{
+  "repo": "https://github.com/google-deepmind/mujoco_menagerie",
+  "local_commit": "bd9709b540d58e1dcf417e4ffeffc7d54318280d",
+  "files": [
+    {
+      "path": "models/go2/LICENSE",
+      "sha256": "7e2dfda59b98e38d123f539b59ecb637ffd8908d19e09f7765884a309f010d40"
+    },
+    {
+      "path": "models/go2/README.md",
+      "sha256": "7e72d1d757f3d2e93c37a6419c36b245ed0b90ff5aa327a393119b823f3adebb"
+    },
+    {
+      "path": "models/go2/assets/base_0.obj",
+      "sha256": "8cdc53719002a5ee737d867904e534a6d6fa930b616bdcc1b3131e577d4e46c0"
+    },
+    {
+      "path": "models/go2/assets/base_1.obj",
+      "sha256": "39d2f4724ff64dd5a0640c308fd98902a2946660a8d033ec8dbf368fd5af0dd6"
+    },
+    {
+      "path": "models/go2/assets/base_2.obj",
+      "sha256": "29cae463f95d678e4ede863c36c9b19b0d356b8340412add10670d70bdcc3095"
+    },
+    {
+      "path": "models/go2/assets/base_3.obj",
+      "sha256": "f51ba43bf300e68957a0c1aa83eaf3e4926f4ac7e64a0d6c33ae5d21fcbcf5f6"
+    },
+    {
+      "path": "models/go2/assets/base_4.obj",
+      "sha256": "49ddec0129546e5dd2075d5beacf7f207baa2860aeff7626818e64d2efbf3821"
+    },
+    {
+      "path": "models/go2/assets/calf_0.obj",
+      "sha256": "4a818cd563c5b7e2a271504442d05fd777d38cbaa028d4a10ad29c9f87bb355e"
+    },
+    {
+      "path": "models/go2/assets/calf_1.obj",
+      "sha256": "51950c3a153ae3208592df86ea11c9d6756f8f645ebca5caf6910c61aeb03817"
+    },
+    {
+      "path": "models/go2/assets/calf_mirror_0.obj",
+      "sha256": "6dc0406207a1c08a5953fd5962aca1a270fd06593d30d100205e05c1b32d4af2"
+    },
+    {
+      "path": "models/go2/assets/calf_mirror_1.obj",
+      "sha256": "f84f5af90b914633165beb3a5493ee499169144c5797dcf04c6eb5842f74b31a"
+    },
+    {
+      "path": "models/go2/assets/foot.obj",
+      "sha256": "df9e78a7c0110d02557439010f2a5f11f0ec4fd907b32704145dbd6aa7affc0b"
+    },
+    {
+      "path": "models/go2/assets/hip_0.obj",
+      "sha256": "cc29932ab4d251ce3f72389ec4c1f757e44eee138b87e772b648c2bc76b506cd"
+    },
+    {
+      "path": "models/go2/assets/hip_1.obj",
+      "sha256": "3fd5bd9b2ef6abe622c0739d3c67eaa1679b19b47132951972c4892a779ea7cf"
+    },
+    {
+      "path": "models/go2/assets/thigh_0.obj",
+      "sha256": "bb3edfe6a7b04f4f4dff1ce7b05d426ddce941e276cc6372fb542055893c71ec"
+    },
+    {
+      "path": "models/go2/assets/thigh_1.obj",
+      "sha256": "3a631822f9f7d2114b1b79dcdff5abf95103630abb7d91d1f3b8b18117132ed2"
+    },
+    {
+      "path": "models/go2/assets/thigh_mirror_0.obj",
+      "sha256": "07abaedce761f1dd48647384ac14ba1959276bc78d5a2a62051e8f1c6093933b"
+    },
+    {
+      "path": "models/go2/assets/thigh_mirror_1.obj",
+      "sha256": "db984a3e983eabbc9b38183427cca9ab0bb3bdb049f9eab030e06edda36579d6"
+    },
+    {
+      "path": "models/go2/go2.png",
+      "sha256": "838924da23e5034f7210a14e3540194750ab1469110c6d3832909dc55968a5e9"
+    },
+    {
+      "path": "models/go2/go2.xml",
+      "sha256": "a82688894a2e6e607a91bef3976c1a4fcb4cfe74505c9f0beeafd667228171cd"
+    },
+    {
+      "path": "models/go2/go2_mjx.png",
+      "sha256": "6f2cdfa110b0826122b296bc7db4fd5212f688b177ea70d65a9331bee11ca469"
+    },
+    {
+      "path": "models/go2/go2_mjx.xml",
+      "sha256": "9aa215f913a23ab45b434e9a869f1564b6bf7e9bae1c5eab27af6153d0e1f5f2"
+    },
+    {
+      "path": "models/go2/scene.xml",
+      "sha256": "050f0a7168b30de24410fbf3d3f66b85169468e10e6bbdf3e11092c4d73cf9a7"
+    },
+    {
+      "path": "models/go2/scene_mjx.xml",
+      "sha256": "59ecdb5d028b370c009425caf784fd1fbea77e2d70ea0c44c9135c60609941c0"
+    }
+  ]
+}
