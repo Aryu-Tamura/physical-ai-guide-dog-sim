@@ -33,7 +33,7 @@ def main():
     if not a.quick:tests.append(('no_pause','verify_integrated.py',['--pause-duration','0'],'guidance_passed',True))
     rows=[]
     for name,script,flags,key,expected in tests:
-        command=[sys.executable,str(ROOT/script),'--output',f'{out.relative_to(ROOT)}/{name}',*flags]
+        command=[sys.executable,str(ROOT/script),'--output',f'{out.relative_to(ROOT / "outputs")}/{name}',*flags]
         print('Running',name,flush=True)
         result=subprocess.run(command,cwd=ROOT,capture_output=True,text=True)
         (out/f'{name}.log').write_text(result.stdout+'\n'+result.stderr)
